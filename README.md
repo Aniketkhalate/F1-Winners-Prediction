@@ -1,6 +1,8 @@
 ### Predicting Formula 1 Grand Prix Winners: A Data-Driven Approach
 
-![lewis](F1.jpg)
+<p align="center">
+  <img src="https://github.com/Aniketkhalate/F1-Winners-Prediction/blob/master/F1.jpg">
+</p>
 
 Formula 1, the pinnacle of motorsport, is a thrilling blend of cutting-edge technology, high-speed drama, and strategic acumen. With millions of fans worldwide and a history spanning over seven decades, F1 races are not just about raw speed but also about the intricate interplay of various factors that influence the outcome. From the prowess of the drivers to the engineering brilliance of the cars, every element plays a crucial role in determining who takes the checkered flag.
 
