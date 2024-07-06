@@ -1,4 +1,4 @@
-### Predicting Formula 1 Grand Prix Winners: A Data-Driven Approach
+### Formula 1 Predictive Analytics: Unveiling Race Winners with Data
 
 <p align="center">
   <img src="https://github.com/Aniketkhalate/F1-Winners-Prediction/blob/master/F1.jpg">
